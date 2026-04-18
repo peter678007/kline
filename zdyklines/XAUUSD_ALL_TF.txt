@@ -1,4 +1,4 @@
-XAUUSD MULTI-TF KLINES | generated 2026-04-18 18:00:05 BJT | build=20260418180005
+XAUUSD MULTI-TF KLINES | generated 2026-04-18 18:17:05 BJT | build=20260418181705
 timeframes: H4
 ============================================================
 
